@@ -1,0 +1,17 @@
+#container {
+    display: grid;
+    grid-template-columns: 10vw 10vw 10vw 10vw;
+    grid-template-rows: 10vw 10vw 10vw 10vw;
+    padding: 30px;
+}
+
+.container-item {
+    background-color: grey;
+    border: solid black;
+}
+
+#box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
