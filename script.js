@@ -8,7 +8,7 @@ function initialize(sideLength) {
 function createGrid(num) {
     const container = document.getElementById('container');
 
-    let sideLength = 790 / num;
+    let sideLength = 500 / num;
     console.log(sideLength);
     let templateStyle = "";
 

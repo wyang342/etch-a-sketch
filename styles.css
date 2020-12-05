@@ -18,3 +18,11 @@ body {
     text-align: center;
     font-family: Chalkduster, Arial, sans-serif;
 }
+
+h1 {
+    font-size: large;
+}
+
+#reset {
+    font-size: xx-small;
+}
